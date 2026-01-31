@@ -15,6 +15,9 @@ This guide is only for the Fujitsu Lifebook E556. I am NOT responsible for any D
 > [!IMPORTANT]
 > Intel WiFi with Airportitlwm is only for MacOS Monterey.
 
+> [!NOTE]
+> Only for Monterey due to end of support for Skylake processors but it can be made possible to get to work on newer versions of macOS.
+
 &nbsp;
 
 ## 💻 Tested devices
@@ -116,6 +119,5 @@ Check the model of your WiFi & Bluetooth card. Intel cards should be compatible 
 
 
 This guide will help you to install macOS Monterey on your Fujitsu Lifebook E556.
-⚠️ Only for MacOS Moterey due to end of support for Skylake processors.
 
 

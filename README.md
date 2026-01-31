@@ -116,5 +116,6 @@ Check the model of your WiFi & Bluetooth card. Intel cards should be compatible 
 
 
 This guide will help you to install macOS Monterey on your Fujitsu Lifebook E556.
+⚠️ Only for MacOS Moterey due to end of support for Skylake processors.
 
 
